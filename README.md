@@ -2,4 +2,4 @@
 #### Eden Lu
 
 ## My Portfolio
-<a href="https://https://edenlu005.github.io/wakus"> Wakus </a>
+<a href="http://https://edenlu005.github.io/wakus"> Wakus </a>
